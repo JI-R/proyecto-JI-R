@@ -1,3 +1,4 @@
+adriancarreto08-patch-1
 # PedidoChino
 ## Integrantes:
 - Jose Adrian Carreto Talamantes
@@ -10,3 +11,8 @@
 En el presente proyecto se creo una pagina web para una local de comida china ubicado en la localidad, 
 donde la gente podra realizar ordenes, ver la locacion del establecimiento y de
 igual manera ver el menu.
+
+# proyecto-JI-R
+
+## Proyecto de página web de pedido chino de Johan y José Adrián.
+ main
